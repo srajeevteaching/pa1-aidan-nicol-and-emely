@@ -1,3 +1,10 @@
+# Team Members: [Nicol Gutierrez]
+# Course: CS151, Dr.Rajeev
+# Date: [Sep 22/2021]
+# Programming Assignment: 1
+# Program Inputs: [lenght, height, weight]
+# Program Outputs: [area, paints, primer]
+
 width=float(input("please give width in feet"))
 lenght=float(input("please give lenght in feet"))
 height=float(input("please give height in feet"))
